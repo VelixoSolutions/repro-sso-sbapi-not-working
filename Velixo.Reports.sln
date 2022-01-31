@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31825.309
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Velixo.Reports", "Velixo.Reports\Velixo.Reports.csproj", "{281B9EFD-3AF5-471D-9526-66C6DCA251C4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B8DB89AB-6F35-49CB-9E37-074E9578C563}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitignore = .gitignore
+		azure-pipelines.yml = azure-pipelines.yml
+		collect-coverage.bat = collect-coverage.bat
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug-Acumatica|Any CPU = Debug-Acumatica|Any CPU
+		Debug-Cegid|Any CPU = Debug-Cegid|Any CPU
+		Debug-MYOB|Any CPU = Debug-MYOB|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Release-Acumatica|Any CPU = Release-Acumatica|Any CPU
+		Release-Acumatica-Insider|Any CPU = Release-Acumatica-Insider|Any CPU
+		Release-Acumatica-WithUnitTests|Any CPU = Release-Acumatica-WithUnitTests|Any CPU
+		Release-Cegid|Any CPU = Release-Cegid|Any CPU
+		Release-Cegid-Insider|Any CPU = Release-Cegid-Insider|Any CPU
+		Release-MYOB|Any CPU = Release-MYOB|Any CPU
+		Release-MYOB-Insider|Any CPU = Release-MYOB-Insider|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{281B9EFD-3AF5-471D-9526-66C6DCA251C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{281B9EFD-3AF5-471D-9526-66C6DCA251C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{281B9EFD-3AF5-471D-9526-66C6DCA251C4}.Debug-Acumatica|Any CPU.ActiveCfg = Debug-Acumatica|Any CPU
+		{281B9EFD-3AF5-471D-9526-66C6DCA251C4}.Debug-Acumatica|Any CPU.Build.0 = Debug-Acumatica|Any CPU
+		{281B9EFD-3AF5-471D-9526-66C6DCA251C4}.Debug-Cegid|Any CPU.ActiveCfg = Debug-Cegid|Any CPU
+		{281B9EFD-3AF5-471D-9526-66C6DCA251C4}.Debug-Cegid|Any CPU.Build.0 = Debug-Cegid|Any CPU
+		{281B9EFD-3AF5-471D-9526-66C6DCA251C4}.Debug-MYOB|Any CPU.ActiveCfg = Debug-MYOB|Any CPU
+		{281B9EFD-3AF5-471D-9526-66C6DCA251C4}.Debug-MYOB|Any CPU.Build.0 = Debug-MYOB|Any CPU
+		{281B9EFD-3AF5-471D-9526-66C6DCA251C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{281B9EFD-3AF5-471D-9526-66C6DCA251C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{281B9EFD-3AF5-471D-9526-66C6DCA251C4}.Release-Acumatica|Any CPU.ActiveCfg = Release-Acumatica|Any CPU
+		{281B9EFD-3AF5-471D-9526-66C6DCA251C4}.Release-Acumatica|Any CPU.Build.0 = Release-Acumatica|Any CPU
+		{281B9EFD-3AF5-471D-9526-66C6DCA251C4}.Release-Acumatica-Insider|Any CPU.ActiveCfg = Release-Acumatica-Insider|Any CPU
+		{281B9EFD-3AF5-471D-9526-66C6DCA251C4}.Release-Acumatica-Insider|Any CPU.Build.0 = Release-Acumatica-Insider|Any CPU
+		{281B9EFD-3AF5-471D-9526-66C6DCA251C4}.Release-Acumatica-WithUnitTests|Any CPU.ActiveCfg = Release-Acumatica-WithUnitTests|Any CPU
+		{281B9EFD-3AF5-471D-9526-66C6DCA251C4}.Release-Acumatica-WithUnitTests|Any CPU.Build.0 = Release-Acumatica-WithUnitTests|Any CPU
+		{281B9EFD-3AF5-471D-9526-66C6DCA251C4}.Release-Cegid|Any CPU.ActiveCfg = Release-Cegid|Any CPU
+		{281B9EFD-3AF5-471D-9526-66C6DCA251C4}.Release-Cegid|Any CPU.Build.0 = Release-Cegid|Any CPU
+		{281B9EFD-3AF5-471D-9526-66C6DCA251C4}.Release-Cegid-Insider|Any CPU.ActiveCfg = Release-Cegid-Insider|Any CPU
+		{281B9EFD-3AF5-471D-9526-66C6DCA251C4}.Release-Cegid-Insider|Any CPU.Build.0 = Release-Cegid-Insider|Any CPU
+		{281B9EFD-3AF5-471D-9526-66C6DCA251C4}.Release-MYOB|Any CPU.ActiveCfg = Release-MYOB|Any CPU
+		{281B9EFD-3AF5-471D-9526-66C6DCA251C4}.Release-MYOB|Any CPU.Build.0 = Release-MYOB|Any CPU
+		{281B9EFD-3AF5-471D-9526-66C6DCA251C4}.Release-MYOB-Insider|Any CPU.ActiveCfg = Release-MYOB-Insider|Any CPU
+		{281B9EFD-3AF5-471D-9526-66C6DCA251C4}.Release-MYOB-Insider|Any CPU.Build.0 = Release-MYOB-Insider|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {353C4CD8-81D4-471E-85A6-5E51DB1E199F}
+	EndGlobalSection
+EndGlobal
